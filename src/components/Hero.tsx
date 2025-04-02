@@ -1,5 +1,5 @@
-import video1 from "../../public/assets/video1.mp4";
-import video2 from "../../public/assets/video2.mp4";
+import video1 from "../assets/video1.mp4";
+import video2 from "../assets/video2.mp4";
 const Hero = () => {
     return (
         <div className="mt-10 mx-10 sm:mx-30 lg:mx-40">
