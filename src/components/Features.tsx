@@ -2,7 +2,7 @@ import { features } from "../constants/index.tsx";
 
 const Features = () => {
   return (
-    <div className="px-10 md:px-15 lg:px-20 py-10">
+    <div className="px-10 md:px-15 lg:px-20 py-10" id="features">
       <h4 className=" rounded-lg text-orange-500 bg-neutral-900 text-center w-fit mx-auto mt-10 b">Feature</h4>
       <div>
         <h1 className="text-2xl sm:text-4xl lg:text-6xl tracking-wide text-center pt-8">

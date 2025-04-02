@@ -2,7 +2,7 @@ import video1 from "../assets/video1.mp4";
 import video2 from "../assets/video2.mp4";
 const Hero = () => {
     return (
-        <div className="mt-10 mx-10 sm:mx-30 lg:mx-40">
+        <div className="mt-10 mx-10 sm:mx-30 lg:mx-40" id="hero">
             <div className="flex flex-col text-center justify-center items-center ">
                 <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
                     VirtaulR build tools <span className="bg-gradient-to-r from-orange-500
@@ -10,7 +10,7 @@ const Hero = () => {
                         for developers  </span>
                 </h1>
                 <p className="text-lg text-center mt-10 text-neutral-500 max-w-4xl">
-                    Empowe your creativity and bring your VR app ideas to life with our intutive developement tools.
+                    Empower your creativity and bring your VR app ideas to life with our intutive developement tools.
                     get started today and turn your imagination into immersive reality.
                 </p>
 
